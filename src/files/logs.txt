@@ -1,0 +1,1 @@
+[{"msg":"Falha ao enviar emails de sincronia!","date":"2019-10-22 4:11:00 PM"}]
